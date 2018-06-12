@@ -9,6 +9,6 @@ public class CalculatorTest {
     public void sumShouldWork() {
 
 
-        Assert.assertEquals(4, Calculator.sum(2, 2));
+        Assert.assertEquals(4, Calculator.sum(3, 2));
     }
 }
